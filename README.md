@@ -4,4 +4,5 @@
 - N번은 사용자로부터 키보드로 입력을 받아서 정함
 - 주사위를 N번 던져서 나오는 횟수와 비율 (횟수 / N)을 화면에 출력
 
+<출력 예시>
 ![화면출력](https://user-images.githubusercontent.com/101072620/226890353-eb56a264-d58d-46f6-bab8-cd80ed34011b.png)

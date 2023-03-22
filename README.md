@@ -1,1 +1,7 @@
-# Kaggle_Coding_Club
+# lab01
+
+- 주사위를 n번 던져서 1-6 사이의 숫자가 몇 번 정도 나오는지 확인하는 프로그램을 작성
+- N번은 사용자로부터 키보드로 입력을 받아서 정함
+- 주사위를 N번 던져서 나오는 횟수와 비율 (횟수 / N)을 화면에 출력
+
+![화면출력](https://user-images.githubusercontent.com/101072620/226890353-eb56a264-d58d-46f6-bab8-cd80ed34011b.png)

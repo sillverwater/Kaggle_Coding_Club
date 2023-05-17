@@ -1,1 +1,1 @@
-# Kaggle_Coding_Club
+# Titanic - Machine Learning from Disaster
